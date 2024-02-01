@@ -36,9 +36,9 @@ Yapay zeka hakkında genel terimler ve açıklamaları.
 
 ![](/dayOne/ai5.png)
 Yapay zekanın girdileri ve olası çıktılarıdır. Metin verisi girdisi ile Code Generation sonucu alınabilir.
->[!NOTE]
->Buraya kadar olan görseller ***Kıdemli İş Mimarı Gizem Yalçın*** tarafından anlatılmıştır. 
->Sonraki görseller daha teknik bilgiler içermekte olup ***Uygulama Mimarı Muhammet Ali Dede*** tarafından anlatılmıştır.
+> [!NOTE]
+> Buraya kadar olan görseller ***Kıdemli İş Mimarı Gizem Yalçın*** tarafından anlatılmıştır. 
+> Sonraki görseller daha teknik bilgiler içermekte olup ***Uygulama Mimarı Muhammet Ali Dede*** tarafından anlatılmıştır.
 
 ![](/dayOne/ai6.png)
 <details><summary>Supervised Learning</summary>
